@@ -1,0 +1,5 @@
+.idea
+node_modules
+.ng_pkg_build
+*.log
+dist
